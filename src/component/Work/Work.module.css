@@ -1,0 +1,56 @@
+/* Sec2 Work */
+/* bg img */
+.testy{
+    background-image:url(../../img/Mask\ Group\ \(4\).png) ;
+background-position: center center;
+background-size: cover;
+width: 100%;
+direction: rtl;
+}
+/* bg color */
+.testy1{
+    background-color: rgba(201, 138, 64, 1);
+    width: 85%;
+    height: 100%;
+    top: 0;
+    left: 0;
+
+}
+/* headingWork */
+.headingWork{
+    font-family: Sen;
+    font-size: 120px;
+    font-weight: 800;
+    line-height: 120px;
+    }
+    /* pragTesty */
+.pragTesty{
+    font-family: Poppins;
+font-size: 18px;
+font-weight: 600;
+line-height: 26px;
+}
+/* buttonTesty */
+.buttonTesty{
+    background-color: rgba(253, 186, 16, 1);
+    color: white;
+    border: 0;
+    font-family: Poppins;
+font-size: 20px;
+font-weight: 900;
+line-height: 24px;
+
+}
+/* imgTesty */
+.imgTesty{
+    width: 120%;
+    
+}
+
+/* prag1 */
+.prag1{
+  direction: ltr;
+  margin-left: -15%;
+  color: rgba(201, 138, 64, 1);
+  ;
+}
